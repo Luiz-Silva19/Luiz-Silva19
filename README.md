@@ -1,19 +1,13 @@
-# Olá! Sou Luiz Felipe 👋
+# GitHub
 
-Analista de Sistemas apaixonado por sistemas distribuídos,
-Market Data, Cloud Computing e Engenharia de Software.
+Este perfil reúne projetos, estudos, experimentos e anotações relacionados ao desenvolvimento de software.
 
-## Tecnologias
+Os repositórios documentam diferentes etapas de aprendizado, provas de conceito e aplicações desenvolvidas durante meus estudos e experiências práticas.
 
-- .NET
-- Python
-- AWS
-- Docker
-- Terraform
+## Organização
 
-## Atualmente estudando
-
-- Apache Kafka
-- Quantitative Finance
-- Estatística
-- Electronic Trading
+- Projetos
+- Estudos
+- Documentação
+- Roadmaps
+- Experimentos
