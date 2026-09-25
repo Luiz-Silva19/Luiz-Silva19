@@ -1,25 +1,19 @@
 # GitHub
 
-Este perfil reúne projetos, estudos, experimentos e anotações relacionados à engenharia de software, engenharia de dados e tecnologia aplicada ao mercado financeiro.
+Um pouco de código, alguns experimentos e uma quantidade considerável de coisas que eu resolvi tentar entender.
 
-Os repositórios documentam diferentes etapas de aprendizado, provas de conceito, experimentos técnicos e aplicações desenvolvidas durante meus estudos e experiências práticas.
+Por aqui ficam projetos pessoais, estudos, provas de conceito, anotações e experiências com diferentes tecnologias.
 
-## Organização
+Alguns repositórios são projetos completos. Outros são apenas experimentos para testar uma ideia, comparar tecnologias ou entender melhor alguma coisa na prática.
 
-* **Projetos** — aplicações e soluções desenvolvidas para diferentes objetivos.
-* **Estudos** — exercícios, implementações e experimentos relacionados a tecnologias e conceitos técnicos.
-* **Documentação** — anotações, referências e materiais de estudo.
-* **Roadmaps** — trilhas de aprendizado e evolução técnica.
-* **Experimentos** — provas de conceito, benchmarks e explorações de tecnologias.
-
-## Principais temas
+Os assuntos que aparecem por aqui são:
 
 * Software Engineering
+* Python, C# e SQL
+* AWS e Cloud
 * Data Engineering
-* AWS & Cloud
 * Distributed Systems
-* APIs & Microservices
-* Real-Time Data Processing
-* Market Data & Financial Systems
-* Python, C#, Java & SQL
-* Statistics & Quantitative Research
+* APIs e Microservices
+* Real-Time Data
+* Market Data e sistemas financeiros
+* Estatística e pesquisa quantitativa
